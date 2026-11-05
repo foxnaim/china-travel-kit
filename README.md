@@ -1,3 +1,8 @@
+> **foxnaim** · Данные для въездного туризма в Китай: CLI, HTTP API и MCP-сервер
+>
+> Готовая основа под клиентский проект. Стек: Python.
+> Лицензия MIT сохранена, история коммитов и авторы оригинального проекта сохранены.
+
 # Huaxingzhi · 华行志
 
 > A source-aware China travel planning Skill and open knowledge base for humans, apps, and AI agents.
